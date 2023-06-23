@@ -6,7 +6,7 @@ spring:
   password:  '{cipher}AQAg3BsZ3cKfOKZR2IAp7jb49NM/StJafsJHn27hoK6fRZD2pJYVo7OhnZcpRuwUrYXunuJ5SKmPsbwt+arQOwhn+I8D+IepH3pAo3iZkSBYbRhvdQyXUk6nXBswvppciFMOv1miR8qTYgkhLwXOosweyJ4fKHR1y0lRmOtMHDRW3oMA2OUkt9LeG3KYA6+rGKymlo7QNwLzahiXUY9mxWxMVnGRv8OW/+OacZno1pgxXo53MVa2WItfoTMZyHJNvnNoxitvaYvWFaWRhD88sB05LON2x1S346mKIwnhxfVTdez0LBY6PgSjaMspuYSjsSEW8c18+A52RuL7R2HKF/y8NbtPOreUf9X9gSaNqg4yT23Pj+LWllkX+Se4Lm7Vr6E='
 
 token: 
-  expiration_time: 86400000 0
+  expiration_time: 86400000
   secret: token_dev_3
 
 gateway:
